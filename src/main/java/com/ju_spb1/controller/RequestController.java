@@ -1,4 +1,4 @@
-package com.example.ju_spb1;
+package com.ju_spb1.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

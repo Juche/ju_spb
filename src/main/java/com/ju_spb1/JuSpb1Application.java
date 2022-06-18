@@ -1,4 +1,4 @@
-package com.example.ju_spb1;
+package com.ju_spb1;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
